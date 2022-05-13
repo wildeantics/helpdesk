@@ -243,14 +243,20 @@ h3 {
   border-radius: 10px;
 }
 
-.status-open {
+.status-assigned {
   background-color: steelblue;
   color: #fff;
   border-radius: 10px;
 }
 
-.status-closed {
+.status-pending {
   background-color: darkred;
+  color: #fff;
+  border-radius: 10px;
+}
+
+.status-closed {
+  background-color: black;
   color: #fff;
   border-radius: 10px;
 }
