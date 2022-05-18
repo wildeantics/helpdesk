@@ -13,6 +13,6 @@ Incorporates:
 - React Modal
 - React Toastify
 - ESLint, and
-- Jest
+- Jest  
 This was built while learning React.  
 Design and code architect provided by @bradtraversy.
