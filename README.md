@@ -14,5 +14,6 @@ Incorporates:
 - React Toastify
 - ESLint, and
 - Jest  
+
 This was built while learning React.  
 Design and code architect provided by @bradtraversy.
