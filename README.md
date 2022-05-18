@@ -1,4 +1,4 @@
-# helpdesk
+# Helpdesk
 Support ticketing app for all your tech woes
 A modern web app, build in React, to submit and receive issues about your tech.
 Incorporates:  
